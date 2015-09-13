@@ -1,6 +1,6 @@
 .. _Recalbox: http://recalbox.com
 .. _recalbox-manager: https://github.com/sveetch/recalbox-manager
-.
+
 Recalbox Manifesto
 ==================
 
