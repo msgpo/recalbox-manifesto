@@ -8,3 +8,10 @@ This is a simple command line script to build rom systems and bios readme files
 from a template and using the `Recalbox`_ manifest file to retrieve datas.
 
 More to come..
+
+Install
+*******
+
+::
+
+    pip install recalbox-manifesto

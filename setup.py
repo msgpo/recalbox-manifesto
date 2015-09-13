@@ -20,7 +20,7 @@ setup(
     ],
     install_requires=[
         'Jinja2 >= 2.6',
-        'click==4.0',
+        'click>=5.0',
         'colorama==0.3.2',
     ],
     entry_points={
